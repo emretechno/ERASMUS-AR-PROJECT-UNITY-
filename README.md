@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # awesome
 
 
@@ -93,3 +94,7 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+=======
+# ERASMUS-AR-PROJECT-UNITY-
+that is my spring project for AR , written by Unity and C#
+>>>>>>> 8123d9a9394821f8dcf0ff7e4361c3f34a016033
