@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HelpButtonController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Rain.cs" Line="12" Column="14" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/SelectController.cs" Line="9" Column="39" />
+      <File FileName="Assets/Scripts/PlaceObjets.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/AutoCarCreate.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/GenerateEnemy.cs" Line="10" Column="25" />
+      <File FileName="Assets/Scripts/BulletController.cs" Line="12" Column="30" />
+      <File FileName="Assets/Scripts/ButtonPlaceBuild.cs" Line="12" Column="66" />
+      <File FileName="Assets/Scripts/CarAttack.cs" Line="8" Column="46" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Chronometer.cs" Line="12" Column="31" />
+      <File FileName="Assets/Scripts/PlaceButtonController.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/HelpButtonController.cs" Line="9" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7dd0780e-c39c-4ebf-85f3-04e367ad1257" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
